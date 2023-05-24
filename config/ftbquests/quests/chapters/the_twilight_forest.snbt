@@ -9,15 +9,15 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Enter &2The Twilight Forest"
+			title: "Entra al &2The Twilight Forest"
 			x: -1.0d
 			y: 0.5d
-			subtitle: "To create a Twilight Forest portal, first make a 2x2 infinite water source. Then, place flowers on surrounding grass blocks and throw a diamond into the water."
+			subtitle: "Para crear un portal del Twilight Forest, haz primero una fuente de agua infinita de 2x2. Después, coloca flores en los bloques de hierba circundantes y lanza un diamante al agua".
 			id: "2BC7B74C1D405B3B"
 			tasks: [{
 				id: "43B4B4196E278A86"
 				type: "dimension"
-				title: "Enter the Twilight Forest"
+				title: "Entra al Twilight Forest"
 				icon: "twilightforest:twilight_portal_miniature_structure"
 				dimension: "twilightforest:twilight_forest"
 			}]
@@ -28,10 +28,10 @@
 			}]
 		}
 		{
-			title: "Defeat the &aNaga"
+			title: "Derrota al &aNaga"
 			x: 0.5d
 			y: 0.5d
-			subtitle: "Found in stone mazes in forests. Unlocks the &eLich Tower&r."
+			subtitle: "Se encuentra en los laberintos de piedra de los bosques. Desbloquea la &eLich Tower&r".
 			dependencies: ["2BC7B74C1D405B3B"]
 			id: "7630C21661FED121"
 			tasks: [{
@@ -48,10 +48,10 @@
 			}]
 		}
 		{
-			title: "Defeat the &eTwilight Lich"
+			title: "Derrota al &eTwilight Lich"
 			x: 2.0d
 			y: 0.5d
-			subtitle: "Found in forests. Unlocks the Labyrinth, Goblin Knight Stronghold, and Yeti Lair."
+			subtitle: "Se encuentra en los bosques. Desbloquea el Labyrinth, la Stronghold del Caballero Goblin y la Guarida del Yeti".
 			dependencies: ["7630C21661FED121"]
 			id: "7149FE98D0E105CE"
 			tasks: [{
@@ -81,10 +81,10 @@
 			]
 		}
 		{
-			title: "Obtain &3Meef Stroganoff"
+			title: "Obtener &3Meef Stroganoff"
 			x: 3.5d
 			y: 0.5d
-			subtitle: "Obtained by killing a Minotaur, found in swamp Labyrinths. Unlocks Hollow Hills when eaten."
+			subtitle: "Se obtiene matando a un Minotauro, se encuentra en Laberintos pantanosos. Desbloquea las Hollow Hills cuando se come".
 			dependencies: ["7149FE98D0E105CE"]
 			id: "5ED257E2C2147AB2"
 			tasks: [{
@@ -118,10 +118,10 @@
 			]
 		}
 		{
-			title: "Defeat the &2Hydra"
+			title: "Derrota a la &2Hydra"
 			x: 5.0d
 			y: 0.5d
-			subtitle: "Found in Hollow Hills in swamps. Its thick scales resist most attempts to hit its exterior."
+			subtitle: "Se encuentra en los pantanos de Hollow Hills. Sus gruesas escamas resisten la mayoría de los intentos de golpear su exterior".
 			dependencies: ["5ED257E2C2147AB2"]
 			id: "37E4C4EFA9E20B79"
 			tasks: [{
@@ -136,16 +136,16 @@
 			}]
 		}
 		{
-			title: "Defeat the &fUr-Ghast"
+			title: "Derrota al &fUr-Ghast"
 			x: 5.0d
 			y: -1.0d
-			subtitle: "Found in Dark Towers at the heart of the Dark Forest."
+			subtitle: "Se encuentra en las Torres Oscuras, en el corazón del Bosque Oscuro".
 			dependencies: ["601FE17AA8C90316"]
 			id: "57FD6DFF7B7647D0"
 			tasks: [{
 				id: "45767EA415670C8F"
 				type: "kill"
-				title: "Defeat the Ur-Ghast"
+				title: Derrota al Ur-Ghast"
 				icon: "twilightforest:ur_ghast_trophy"
 				entity: "twilightforest:ur_ghast"
 				value: 1L
@@ -157,16 +157,16 @@
 			}]
 		}
 		{
-			title: "Defeat the &f&lAlpha Yeti"
+			title: "Derrota al &f&lAlpha Yeti"
 			x: 3.5d
 			y: 2.0d
-			subtitle: "Found in &fYeti Lairs &rin the &fSnowy Forest&r. Unlocks the &f&lSnow Queen&r."
+			subtitle: "Encontrado en &fYeti Lairs &rin the &fSnowy Forest&r. Desbloquea a la Reina de las Nieves".
 			dependencies: ["7149FE98D0E105CE"]
 			id: "3D1F53C06B660F96"
 			tasks: [{
 				id: "12C1C8D16C9D9FD1"
 				type: "kill"
-				title: "Defeat the Alpha Yeti"
+				title: "Derrota al Alpha Yeti"
 				icon: "twilightforest:alpha_yeti_trophy"
 				entity: "twilightforest:alpha_yeti"
 				value: 1L
@@ -178,10 +178,10 @@
 			}]
 		}
 		{
-			title: "Defeat the &f&lSnow Queen"
+			title: "Derrota al &f&lSnow Queen"
 			x: 5.0d
 			y: 2.0d
-			subtitle: "Found in Glaciers."
+			subtitle: "Encontrado en glaciares".
 			dependencies: ["3D1F53C06B660F96"]
 			id: "7B6005A9F6F5C7FE"
 			tasks: [{
@@ -196,10 +196,10 @@
 			}]
 		}
 		{
-			title: "Slay the &8Knight Phantoms"
+			title: "Matar al &8Knight Phantoms"
 			x: 3.5d
 			y: -1.0d
-			subtitle: "Found by opening underground Strongholds in the Dark Forest with a trophy. Unlocks the Ur-Ghast Tower."
+			subtitle: "Se encuentra al abrir Fortalezas subterráneas en el Bosque Oscuro con un trofeo. Desbloquea la Torre de Ur-Ghast".
 			dependencies: ["7149FE98D0E105CE"]
 			id: "601FE17AA8C90316"
 			tasks: [{
@@ -235,10 +235,10 @@
 			]
 		}
 		{
-			title: "Make your way to the &f&lFinal Castle."
+			title: "Dirígete al &f&lFinal Castle".
 			x: 8.0d
 			y: 0.5d
-			subtitle: "There doesn't seem to be anyone here yet. At least you can use these cool doors."
+			subtitle: "No parece haber nadie aquí todavía. Al menos puedes usar estas puertas tan chulas".
 			dependencies: ["4E9415FC5D3711EB"]
 			id: "0EDB1E145CB2D26F"
 			tasks: [{
@@ -262,10 +262,10 @@
 			]
 		}
 		{
-			title: "Find and use the &6Lamp of Cinders"
+			title: "Encuentra y usa la &6Lamp of Cinders"
 			x: 6.5d
 			y: 0.5d
-			subtitle: "Use something found up in the sky to break into a vault deep underground. Can burn through the spiny foliage of the Thornlands."
+			subtitle: "Usa algo encontrado en el cielo para entrar en una bóveda subterránea. Puede quemar el espinoso follaje de las Tierras Espinosas".
 			dependencies: [
 				"7B6005A9F6F5C7FE"
 				"37E4C4EFA9E20B79"
