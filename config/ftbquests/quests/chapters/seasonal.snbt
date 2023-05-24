@@ -9,16 +9,16 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Craft a &bSled"
+			title: "Craftea una &bSled"
 			x: -3.0d
 			y: 2.0d
-			subtitle: "Can be placed on the ground like a boat. Lets you slide down hills and other surfaces."
+			subtitle: "Puede colocarse en el suelo como un barco. Te permite deslizarte por colinas y otras superficies".
 			dependencies: ["40131BFC98F5E03C"]
 			id: "44FA4ABE94EAD177"
 			tasks: [{
 				id: "00D3FA019EA1A948"
 				type: "item"
-				title: "Any #snowyspirit:sleds"
+				title: "Cualquier #snowyspirit:sleds"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -34,10 +34,10 @@
 			}]
 		}
 		{
-			title: "Craft a &cC&fa&cn&fd&cy &fC&ca&fn&ce &fB&cl&fo&cc&fk"
+			title: "Craftea un &cC&fa&cn&fd&cy &fC&ca&fn&ce &fB&cl&fo&cc&fk"
 			x: -3.0d
 			y: 0.0d
-			subtitle: "&6The Bumblezone &ris a great place to find Honeycomb!"
+			subtitle: "&6The Bumblezone &ris un gran lugar para encontrar Honeycomb!"
 			dependencies: ["40131BFC98F5E03C"]
 			id: "0EF8EA8214FEEAB7"
 			tasks: [{
@@ -53,10 +53,10 @@
 			}]
 		}
 		{
-			title: "Craft &eGingerbread"
+			title: "Craftea una &eGingerbread"
 			x: -2.0d
 			y: 0.0d
-			subtitle: "Used to craft a variety of &eGingerbread&r-related decoration blocks."
+			subtitle: "Se utiliza para elaborar diversos bloques decorativos relacionados con el pan de jengibre".
 			dependencies: ["40131BFC98F5E03C"]
 			id: "6F24276D322F6549"
 			tasks: [{
@@ -72,10 +72,10 @@
 			}]
 		}
 		{
-			title: "Build a &bSnowman"
+			title: "Construye un &bSnowman"
 			x: -1.2d
 			y: 1.7999999999999998d
-			subtitle: "A great way to get into the Holiday spirit!"
+			subtitle: "¡Una forma estupenda de entrar en el espíritu navideño!"
 			size: 1.2d
 			id: "40131BFC98F5E03C"
 			tasks: [{
@@ -99,10 +99,10 @@
 			}]
 		}
 		{
-			title: "Craft a &fSnow Golem Plushie"
+			title: "Craftea un &fSnow Golem Plushie"
 			x: -3.0d
 			y: 1.0d
-			subtitle: "A cute &fSnow Golem &rdecoration!"
+			subtitle: "¡Un bonito &fSnow Golem &rdecoración!"
 			dependencies: ["40131BFC98F5E03C"]
 			id: "7BBCCB63DFCBB79E"
 			tasks: [{
@@ -118,10 +118,10 @@
 			}]
 		}
 		{
-			title: "Craft &7Eggnog"
+			title: "Craftea &7Eggnog"
 			x: -0.5d
 			y: 0.0d
-			subtitle: "Fills two hunger bars"
+			subtitle: "Llena dos slots de comida"
 			dependencies: ["40131BFC98F5E03C"]
 			id: "32A6EAE3614FB9CD"
 			tasks: [{
@@ -136,10 +136,10 @@
 			}]
 		}
 		{
-			title: "Craft a &dPresent"
+			title: "Craftea un &dRegalo"
 			x: -3.0d
 			y: 3.0d
-			subtitle: "A great way to give gifts to friends (or yourself)"
+			subtitle: "Una forma estupenda de hacer regalos a los amigos (o a uno mismo xD)"
 			dependencies: ["40131BFC98F5E03C"]
 			id: "40BA61DBF53991AA"
 			tasks: [{
@@ -161,10 +161,10 @@
 			}]
 		}
 		{
-			title: "Craft &9G&aa&cr&9l&aa&cn&9d &9L&ai&cg&9h&at&cs"
+			title: "Craftea &9G&aa&cr&9l&aa&cn&9d &9L&ai&cg&9h&at&cs"
 			x: 0.5d
 			y: 2.0d
-			subtitle: "Perfect way to decorate your home and christmas tree"
+			subtitle: "Una forma perfecta de decorar tu casa y el árbol de navidad"
 			dependencies: ["40131BFC98F5E03C"]
 			id: "1E694E1B42888383"
 			tasks: [{
@@ -179,10 +179,10 @@
 			}]
 		}
 		{
-			title: "Craft a Scarf"
+			title: "Craftea una Scarf"
 			x: 0.5d
 			y: 1.0d
-			subtitle: "Stay nice and warm this christmas"
+			subtitle: "Mantente calentito esta Navidad"
 			dependencies: ["40131BFC98F5E03C"]
 			id: "4FC737F4968F33F1"
 			tasks: [{
@@ -211,10 +211,10 @@
 			]
 		}
 		{
-			title: "Craft a &cSanta Hat&c"
+			title: "Craftea un &cSanta Hat&c"
 			x: 0.5d
 			y: 0.0d
-			subtitle: "&cSanta&c &7needs his hat&7"
+			subtitle: "&cSanta&c &necesita su sombrero&7"
 			dependencies: ["40131BFC98F5E03C"]
 			id: "351B97A1E0BA9814"
 			tasks: [{
@@ -266,10 +266,10 @@
 			]
 		}
 		{
-			title: "Craft a Snow Backpack"
+			title: "Craftea un Snow Backpack"
 			x: 0.5d
 			y: 3.0d
-			subtitle: "Fill it with snowballs and fight your friends! (or mobs)"
+			subtitle: "¡Llénalo de bolas de nieve y lucha contra tus amigos! (o mobs)"
 			dependencies: ["40131BFC98F5E03C"]
 			id: "7AE0B5BE527DAB5B"
 			tasks: [{
