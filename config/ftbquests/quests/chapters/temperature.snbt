@@ -3,7 +3,7 @@
 	group: "3C993182D3E6754B"
 	order_index: 3
 	filename: "temperature"
-	title: " &6Temperature"
+	title: " &6Temperatura"
 	icon: {
 		id: "ftbquests:custom_icon"
 		Count: 1b
@@ -15,10 +15,10 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Craft an &3Ice Pack"
+			title: "Craftea un &3Ice Pack"
 			x: 0.0d
 			y: 0.0d
-			subtitle: "Cools you down when inside of your inventory."
+			subtitle: "Te enfría cuando está dentro de tu inventario".
 			id: "0BE89FCF4342749D"
 			tasks: [{
 				id: "18AEAB7630DB72BA"
@@ -38,10 +38,10 @@
 			}]
 		}
 		{
-			title: "Craft &cHeating Stones"
+			title: "Craftea &cHeating Stones"
 			x: 2.0d
 			y: 0.0d
-			subtitle: "Warms you up when inside of your inventory."
+			subtitle: "Te calienta cuando está dentro de tu inventario".
 			id: "2409856BC00E3155"
 			tasks: [{
 				id: "1CF5A47273CAB23F"
@@ -61,7 +61,7 @@
 			}]
 		}
 		{
-			title: "&6Temperature"
+			title: "&6Temperatura"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1b
@@ -71,21 +71,21 @@
 			}
 			x: 1.0d
 			y: -1.5d
-			subtitle: "Read my description!"
+			subtitle: "¡Lee mi descripción!"
 			description: [
-				"Depending on your surroundings you can get either &bcold &ror &cwarm&r. "
+				"Dependiendo de tu entorno puedes obtener &bfrio &ror &ccalor&r. "
 				""
-				"Taking off your armor, or insulating it, is a good way to combat the &bcold&r."
+				"Quitarte la armadura, o aislarla, es una buena forma de combatir el &bfrio&r".
 				""
-				"Armor can be insulated using Mammoth Fur and Polar Bear fur in a Smithing Table alongside your armor."
+				"La armadura se puede aislar usando Piel de Mamut y Piel de Oso Polar en una Tabla de Herrería junto a tu armadura."
 				""
-				"Blazeborn and Daemon origins do not experience heat or thirst, while Yetis do not experience Cold."
+				"Las razas Blazeborn y Daemon no experimentan calor ni sed, mientras que los Yetis no experimentan Frío".
 			]
 			id: "6BC91BDB2EF699FE"
 			tasks: [{
 				id: "629DF559B9EB33C2"
 				type: "checkmark"
-				title: "Temperature"
+				title: "Temperatura"
 			}]
 			rewards: [{
 				id: "74936BC513F86F5E"
