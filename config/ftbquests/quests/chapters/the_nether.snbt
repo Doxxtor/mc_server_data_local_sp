@@ -34,16 +34,16 @@
 			}]
 		}
 		{
-			title: "Kill a &6Blaze Guardian"
+			title: "Mata al &6Blaze Guardian"
 			x: 1.0d
 			y: 0.0d
-			subtitle: "Found near &6blaze &rspawners."
+			subtitle: "Encuentralo cerca de &6blaze &rspawners."
 			dependencies: ["46D0AAEEB69E28B3"]
 			id: "5B11DB2289D4F66C"
 			tasks: [{
 				id: "4DBABAE3AE00C903"
 				type: "kill"
-				title: "Kill a Blaze Guardian"
+				title: "Mata al Blaze Guardian"
 				icon: "minecraft:blaze_rod"
 				entity: "adventurez:blaze_guardian"
 				value: 1L
@@ -62,16 +62,16 @@
 			]
 		}
 		{
-			title: "Kill a &8Necromancer"
+			title: "Mata al &8Necromancer"
 			x: 3.0d
 			y: -2.0d
-			subtitle: "Found in &4Nether Fortresses&r."
+			subtitle: "Encuentralo en &4Nether Fortresses&r."
 			dependencies: ["46D0AAEEB69E28B3"]
 			id: "69872C1F1CCBDEBD"
 			tasks: [{
 				id: "745C505DC4DF253C"
 				type: "kill"
-				title: "Kill a Necromancer"
+				title: "Mata al Necromancer"
 				icon: "minecraft:wither_skeleton_skull"
 				entity: "adventurez:necromancer"
 				value: 1L
@@ -83,16 +83,16 @@
 			}]
 		}
 		{
-			title: "Defeat a &cPiglin Beast"
+			title: "Derrota al &cPiglin Beast"
 			x: 5.0d
 			y: 0.0d
-			subtitle: "Spawns when &6Nether Gold Ore &ris mined."
+			subtitle: "Spawnea cuando minas &6Nether Gold Ore&"
 			dependencies: ["46D0AAEEB69E28B3"]
 			id: "4E14675B45B7DD15"
 			tasks: [{
 				id: "6F13475E767FB83F"
 				type: "kill"
-				title: "Kill a Piglin Beast"
+				title: "Mata al Piglin Beast"
 				icon: "adventurez:piglin_flag_block"
 				entity: "adventurez:piglin_beast"
 				value: 1L
@@ -111,16 +111,16 @@
 			]
 		}
 		{
-			title: "Defeat the &bSoul Reaper"
+			title: "Derrota al &bSoul Reaper"
 			x: 3.0d
 			y: 2.0d
-			subtitle: "Found in Soul Sand Valleys&r."
+			subtitle: "Encuentrolo en Soul Sand Valleys&r."
 			dependencies: ["46D0AAEEB69E28B3"]
 			id: "6B37BF7003BA0AAA"
 			tasks: [{
 				id: "52A14E87246F74C8"
 				type: "kill"
-				title: "Kill a the Soul Reaper"
+				title: "Mata al Soul Reaper"
 				icon: "biomemakeover:soul_embers"
 				entity: "adventurez:soul_reaper"
 				value: 1L
@@ -140,16 +140,16 @@
 			]
 		}
 		{
-			title: "Defeat the &cNether &6Gauntlet"
+			title: "Derrota al &cNether &6Gauntlet"
 			x: 4.5d
 			y: -1.5d
-			subtitle: "Found in &cNether &rstructures."
+			subtitle: "Encuentralo en &cNether &rstructures."
 			dependencies: ["46D0AAEEB69E28B3"]
 			id: "6FE3E409F3305431"
 			tasks: [{
 				id: "746282A3B3D28D48"
 				type: "kill"
-				title: "Kill the Nether Gauntlet"
+				title: "Mata al Nether Gauntlet"
 				icon: "bosses_of_mass_destruction:blazing_eye"
 				entity: "bosses_of_mass_destruction:gauntlet"
 				value: 1L
@@ -175,16 +175,16 @@
 			]
 		}
 		{
-			title: "Defeat the &8Blackstone Golem"
+			title: "Derrota al &8Blackstone Golem"
 			x: 1.5d
 			y: -1.5d
-			subtitle: "Summoned at a Golem Altar. Find more information in the (craftable) AdventureZ Handbook."
+			subtitle: "Invocado en un Altar de Golem. Más información en el Manual AdventureZ (crafteable)".
 			dependencies: ["46D0AAEEB69E28B3"]
 			id: "3963B69A10D95565"
 			tasks: [{
 				id: "3CCB99D30F004CC1"
 				type: "kill"
-				title: "Kill the Blackstone Golem"
+				title: "Mata al Blackstone Golem"
 				icon: "adventurez:stone_golem_heart"
 				entity: "adventurez:stone_golem"
 				value: 1L
@@ -214,16 +214,16 @@
 			]
 		}
 		{
-			title: "Kill a &8Withered Demon"
+			title: "Mata al &8Withered Demon"
 			x: 4.5d
 			y: 1.5d
-			subtitle: "Spawns in Crimson Forests in the &4Nether&r."
+			subtitle: "Desova en Bosques Carmesí en el &4Nether&r."
 			dependencies: ["46D0AAEEB69E28B3"]
 			id: "4BCD1F2BA84D70D7"
 			tasks: [{
 				id: "239ACDE3872515BB"
 				type: "kill"
-				title: "Kill a Withered Demon"
+				title: "Mata al Withered Demon"
 				icon: "soulsweapons:withered_demon_heart"
 				entity: "soulsweapons:withered_demon"
 				value: 1L
@@ -235,10 +235,10 @@
 			}]
 		}
 		{
-			title: "Defeat &4The Decaying King"
+			title: "Derrota al &4The Decaying King"
 			x: 1.5d
 			y: 1.5d
-			subtitle: "Spawns in the Decaying Kingdom, which can be found using the &bMoonstone Compass&r."
+			subtitle: "Aparece en el Reino en Decadencia, que se puede encontrar usando la Brújula de Piedra Lunar".
 			dependencies: [
 				"5F25DD96B716376D"
 				"46D0AAEEB69E28B3"
@@ -247,7 +247,7 @@
 			tasks: [{
 				id: "1B5A98D064C1B811"
 				type: "kill"
-				title: "Kill the Decaying King"
+				title: "Mata al Decaying King"
 				icon: {
 					id: "soulsweapons:darkin_blade"
 					Count: 1b
