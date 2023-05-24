@@ -12,12 +12,12 @@
 			title: "Visit &bParadise Lost"
 			x: -3.0d
 			y: 0.5d
-			subtitle: "To enter &bParadise Lost&r, build a portal with &eglowstone &rin the shape of a &cNether &rPortal. Light the portal with a water bucket. Note that the dimension currently has no structures or bosses."
+			subtitle: "Para entrar en &bParaíso Perdido&r, construye un portal con &eglowstone &rin la forma de un &cNether &rPortal. Ilumina el portal con un cubo de agua. Ten en cuenta que la dimensión actualmente no tiene estructuras ni jefes".
 			id: "6FCB97F1804B6504"
 			tasks: [{
 				id: "02EC750DD1DAB99F"
 				type: "dimension"
-				title: "Visit Paradise Lost"
+				title: "Visita el Paradise Lost"
 				icon: "minecraft:glowstone"
 				dimension: "paradise_lost:paradise_lost"
 			}]
@@ -28,7 +28,7 @@
 			}]
 		}
 		{
-			title: "Craft a &8Gravitite Levitator"
+			title: "Craftea un &8Gravitite Levitator"
 			x: -3.0d
 			y: -1.0d
 			subtitle: "Redstone powered."
@@ -50,7 +50,7 @@
 			}]
 		}
 		{
-			title: "Find an &lAerbunny"
+			title: "Encuentra un &lAerbunny"
 			x: -1.5d
 			y: -1.0d
 			subtitle: "Right click to put them on your head."
@@ -59,7 +59,7 @@
 			tasks: [{
 				id: "559C5964850A2728"
 				type: "observation"
-				title: "Find an Aerbunny"
+				title: "Encuentra una Aerbunny"
 				icon: "paradise_lost:aerbunny_spawn_egg"
 				timer: 0L
 				observe_type: 5
@@ -73,10 +73,10 @@
 			}]
 		}
 		{
-			title: "Craft a set of &dGravitite &rarmor"
+			title: "Craftea un set de &dGravitite &rarmor"
 			x: -4.5d
 			y: -1.0d
-			subtitle: "&dGravitite &rcan be found at y 27 and y 35."
+			subtitle: "La Gravitita puede encontrarse en y 27 y y 35."
 			dependencies: ["6FCB97F1804B6504"]
 			id: "4C23F34D7549FF27"
 			tasks: [
@@ -132,10 +132,10 @@
 			}]
 		}
 		{
-			title: "Craft a &9Blue Gummy Swet"
+			title: "Craftea una &9Blue Gummy Swet"
 			x: -3.0d
 			y: -2.5d
-			subtitle: "A tasty snack"
+			subtitle: "Un sabroso tentempié"
 			dependencies: [
 				"67A14FDC41783C22"
 				"00C313467CF73F0F"
