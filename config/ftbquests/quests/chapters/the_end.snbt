@@ -9,15 +9,15 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Enter &5The End"
+			title: "Entra al &5The End"
 			x: -0.5d
 			y: -0.5d
-			subtitle: "To open, and find, the &5End&r portal, you will need to use the eyes from the End Remastered mod. Some are craftable, but most require you to explore structures to obtain."
+			subtitle: "Para abrir, y encontrar, el portal &5End&r, necesitarás usar los ojos del mod End Remastered. Algunos son crafteables, pero la mayoría requieren que explores estructuras para obtenerlos."
 			id: "07E305E95A000FAF"
 			tasks: [{
 				id: "42642531FFCE3EBA"
 				type: "dimension"
-				title: "Enter The End"
+				title: "Entra al The End"
 				icon: "minecraft:end_stone"
 				dimension: "minecraft:the_end"
 			}]
@@ -28,16 +28,16 @@
 			}]
 		}
 		{
-			title: "Defeat the &8&lEnder Dragon"
+			title: "Derrota al &8&lEnder Dragon"
 			x: 1.0d
 			y: -0.5d
-			subtitle: "Respawned the same way as normal - placing an end crystal on all four cardinal directions on the exit portal's outer rim. The Dragon Saddle can be used later on in the questline."
+			subtitle: "Respawned la misma manera que lo normal - la colocación de un cristal final en las cuatro direcciones cardinales en el borde exterior del portal de salida. La Silla del Dragón se puede usar más adelante en la misión".
 			dependencies: ["07E305E95A000FAF"]
 			id: "2CE58DD1AE214711"
 			tasks: [{
 				id: "6848B89E38A80BAB"
 				type: "kill"
-				title: "Kill the Ender Dragon"
+				title: "Mata al Ender Dragon"
 				icon: "minecraft:dragon_head"
 				entity: "minecraft:ender_dragon"
 				value: 1L
@@ -49,16 +49,16 @@
 			}]
 		}
 		{
-			title: "Kill an &8Enderwarthog"
+			title: "Mata al &8Enderwarthog"
 			x: 1.0d
 			y: -2.0d
-			subtitle: "Found everywhere in &5The End."
+			subtitle: "Encuentralo en cualquier sitio del &5The End."
 			dependencies: ["2CE58DD1AE214711"]
 			id: "21D51BCBD1818836"
 			tasks: [{
 				id: "64FF133673B090FC"
 				type: "kill"
-				title: "Kill an Enderwarthog"
+				title: "Mata al Enderwarthog"
 				icon: "adventurez:warthog_shell_piece"
 				entity: "adventurez:enderwarthog"
 				value: 1L
@@ -70,10 +70,10 @@
 			}]
 		}
 		{
-			title: "Find an &3Ender Whale"
+			title: "Encuentra una  &3Ender Whale"
 			x: 1.0d
 			y: 1.0d
-			subtitle: "Found flying in the skies of &5The End&r. Can be saddled and led with Chorus Fruit."
+			subtitle: "Encontrado volando en los cielos de &5The End&r. Se puede ensillar y guiar con Fruta del Coro".
 			dependencies: ["2CE58DD1AE214711"]
 			id: "523ECDEFE767B5D0"
 			tasks: [{
@@ -93,13 +93,13 @@
 		{
 			x: 4.0d
 			y: -0.5d
-			subtitle: "Found in rare structures. &4A very difficult boss&r."
+			subtitle: "Se encuentra en estructuras raras. &4Un jefe muy dificil&".
 			dependencies: ["2CE58DD1AE214711"]
 			id: "7E5FC5E13FFF2D6C"
 			tasks: [{
 				id: "4497666E1477F3A1"
 				type: "kill"
-				title: "Defeat the &5Obsidilith"
+				title: "Derrota al &5Obsidilith"
 				icon: "bosses_of_mass_destruction:obsidian_heart"
 				entity: "bosses_of_mass_destruction:obsidilith"
 				value: 1L
@@ -123,16 +123,16 @@
 			]
 		}
 		{
-			title: "Kill &6The Eye"
+			title: "Mata al &6The Eye"
 			x: 2.5d
 			y: -0.5d
-			subtitle: "To build an &3Eye Shrine&r, build a 5x5 &5Obsidian &rplatform. On top of the platform, in the center, build a 3x3 layer of &bCrying Obsidian&r. Place an &fEnd Rod &ron all 4 corners of both layers. Then, place the &8Dragon Egg &rin the middle of the &bCrying Obsidian &rplatform to summon &6The Eye&r."
+			subtitle: "Para construir un &3Santuario del Ojo&r, construye una plataforma de 5x5 &5Obsidiana&r. Encima de la plataforma, en el centro, construye una capa de 3x3 de &bObsidiana Llorona&r. Coloca una &fVara del End o End Rod&r en las 4 esquinas de ambas capas. A continuación, coloca el "Huevo de dragón" en el centro de la plataforma de obsidiana para invocar "El ojo".
 			dependencies: ["7E5FC5E13FFF2D6C"]
 			id: "26E01F1822B87C9D"
 			tasks: [{
 				id: "0CE2C6F045E057B7"
 				type: "kill"
-				title: "Kill the Eye"
+				title: "Mata al the Eye"
 				icon: "minecraft:ender_eye"
 				entity: "adventurez:the_eye"
 				value: 1L
@@ -151,16 +151,16 @@
 			]
 		}
 		{
-			title: "Enter the &k&4l&r&0&lVoid&r&k&4l &rand Defeat the &8Void Shadow"
+			title: "Entra en el &k&4l&r&0&lVoid&r&k&4l &y derrota al &8Void Shadow"
 			x: 5.5d
 			y: -0.5d
-			subtitle: "Found in The &k&4l&r&0&lVoid&r&k&4l &rdimension, which is entered via the portal that is generated when you kill &6The Eye&r. After killing the &8Void Shadow&r, it will drop a Dragon Egg. Stand near it after defeating the &8Void Shadow &rto hatch the egg. You can ride the dragon using the Dragon Saddle, once it has hatched. Press &bY&r to breathe fire while riding the dragon. The dragon will eat raw meat and Orc Skin."
+			subtitle: "Se encuentra en la &k&4l&r&0&lVoid&r&k&4l &rdimensión, a la que se entra por el portal que se genera al matar a &6The Eye&r. Tras matar a &8Void Shadow&r, dejará caer un Huevo de Dragón. Colócate cerca de él después de derrotar a &8Void Shadow&r para eclosionar el huevo. Una vez que haya eclosionado, podrás montar al dragón con la Silla de Dragón. Pulsa &bY&r para respirar fuego mientras montas al dragón. El dragón comerá carne cruda y Piel de Orco".
 			dependencies: ["26E01F1822B87C9D"]
 			id: "5FCA29F10B0B0F24"
 			tasks: [{
 				id: "5190752054716766"
 				type: "advancement"
-				title: "Defeat the Void Shadow"
+				title: "Derrota al the Void Shadow"
 				icon: "minecraft:dragon_egg"
 				advancement: "adventurez:void_shadow_advancement"
 				criterion: ""
