@@ -9,7 +9,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Visit &bParadise Lost"
+			title: "Visita el &bParadise Lost"
 			x: -3.0d
 			y: 0.5d
 			subtitle: "Para entrar en &bParaíso Perdido&r, construye un portal con &eglowstone &rin la forma de un &cNether &rPortal. Ilumina el portal con un cubo de agua. Ten en cuenta que la dimensión actualmente no tiene estructuras ni jefes".
