@@ -1,44 +1,44 @@
 {
-  // Welcome to The Graveyard Config!
+  // ¡Bienvenidos a The Graveyard Config!
   //
-  // Structures:
-  // Configure separation (Minimum distance between two structures of this type in chunks. Must be less than spacing).
-  // Configure spacing (Average distance between two structure placement attempts of this type in chunks).
-  // Configure whitelist:
-  //     1) Whitelist a single biome: use "modId:biomeName" to whitelist a biome (mod identifier + ":" + biome name).
-  //        A full list of all the vanilla biomes can be found here https:minecraft.fandom.com/wiki/Biome#Biome_IDs.
-  //        Common mod identifier are: graveyard_biomes, terralith, byg ...
-  //     2) Whitelist a biome category: use "#c:biomeTag" to whitelist the structure for any biome in this fabric tag (#c + ":" + tag name).
-  //        A list of all valid tags can be found here: https://github.com/FabricMC/fabric/tree/1.19.1/fabric-convention-tags-v1/src/generated/resources/data/c/tags/worldgen/biome.
-  //     3) Whitelist a biome category: use "#minecraft:biomeTag" to whitelist the structure for any biome in this vanilla tag (#minecraft + ":" + tag name).
-  //        A list of all valid tags can be found here: https://minecraft.fandom.com/wiki/Tag#Biomes.
-  // Configure blacklist:
-  //     Blacklist a single biome: use "modId:biome" to blacklist biomes (mod identifier + ":" + biome name).
-  //     A full list of all the vanilla biomes can be found here https:minecraft.fandom.com/wiki/Biome#Biome_IDs.
-  // Configure terrain check radius: set how far from structure placement a block is checked in all cardinal directions. Only necessary for the large graveyard.
-  // Configure max terrain height: set how far apart the different heights from the terrain check can be. Increase this value to allow more structures to spawn, but to also increase chance of weird placement.
-  // Configure if graveyard mobs can spawn naturally in structures.
+  // Estructuras:
+  // Configura la separación (Distancia mínima entre dos estructuras de este tipo en trozos. Debe ser menor que spacing).
+  // Configurar separación (Distancia media entre dos intentos de colocación de estructuras de este tipo en trozos).
+  // Configurar lista blanca:
+  // 1) Lista blanca de un único bioma: usa "modId:biomeName" para poner un bioma en la lista blanca (mod identifier + ":" + nombre del bioma).
+  // Una lista completa de todos los biomas vainilla se puede encontrar aquí https:minecraft.fandom.com/wiki/Biome#Biome_IDs.
+  // Identificador mod común son: graveyard_biomes, terralith, byg ...
+  // 2) Poner en la lista blanca una categoría de bioma: usa "#c:biomeTag" para poner en la lista blanca la estructura de cualquier bioma en esta etiqueta de tejido (#c + ":" + nombre de la etiqueta).
+  // Una lista de todas las etiquetas válidas se puede encontrar aquí: https://github.com/FabricMC/fabric/tree/1.19.1/fabric-convention-tags-v1/src/generated/resources/data/c/tags/worldgen/biome.
+  // 3) Poner en la lista blanca una categoría de bioma: usa "#minecraft:biomeTag" para poner en la lista blanca la estructura de cualquier bioma en esta etiqueta vanilla (#minecraft + ":" + nombre de la etiqueta).
+  // Una lista de todas las etiquetas válidas se puede encontrar aquí: https://minecraft.fandom.com/wiki/Tag#Biomes.
+  // Configurar la lista negra:
+  // Lista negra de un solo bioma: usa "modId:biome" para poner biomas en la lista negra (mod identifier + ":" + nombre del bioma).
+  // Una lista completa de todos los biomas vainilla se puede encontrar aquí https:minecraft.fandom.com/wiki/Biome#Biome_IDs.
+  // Configurar el radio de comprobación del terreno: establece a qué distancia de la colocación de la estructura se comprueba un bloque en todas las direcciones cardinales. Solo necesario para el cementerio grande.
+  // Configurar la altura máxima del terreno: establece a qué distancia pueden estar las diferentes alturas de la comprobación del terreno. Aumente este valor para permitir que aparezcan más estructuras, pero también para aumentar la posibilidad de una colocación extraña.
+  // Configura si los monstruos del cementerio pueden aparecer de forma natural en las estructuras.
   //
   // Mobs:
-  // Configure spawning weight and group size of the spawn.
-  // Configure if mobs burn in sunlight and/or if mobs are affected by the wither effect.
-  // Configure whitelist:
-  //     1) Whitelist a single biome: use "modId:biomeName" to whitelist a biome (mod identifier + ":" + biome name).
-  //        A full list of all the vanilla biomes can be found here https:minecraft.fandom.com/wiki/Biome#Biome_IDs.
-  //        Common mod identifier are: graveyard_biomes, terralith, byg ...
-  //     2) Whitelist a biome category: use "#c:biomeTag" to whitelist the mob for any biome in this fabric tag (#c + ":" + tag name).
-  //        A list of all valid tags can be found here: https://github.com/FabricMC/fabric/tree/1.19.1/fabric-convention-tags-v1/src/generated/resources/data/c/tags/worldgen/biome.
-  //     3) Whitelist a biome category: use "#minecraft:biomeTag" to whitelist the mob for any biome in this vanilla tag (#minecraft + ":" + tag name).
-  //        A list of all valid tags can be found here: https://minecraft.fandom.com/wiki/Tag#Biomes.
-  // Configure blacklist:
-  //     Blacklist a single biome: use "modId:biome" to blacklist biomes (mod identifier + ":" + biome name).
-  //     A full list of all the vanilla biomes can be found here https:minecraft.fandom.com/wiki/Biome#Biome_IDs.
+  // Configura el peso del spawn y el tamaño del grupo del spawn.
+  // Configura si los mobs se queman con la luz del sol y/o si se ven afectados por el efecto de marchitez.
+  // Configura la lista blanca:
+  // 1) Lista blanca de un único bioma: usa "modId:biomeName" para poner un bioma en la lista blanca (mod identifier + ":" + nombre del bioma).
+  // Una lista completa de todos los biomas vainilla se puede encontrar aquí https:minecraft.fandom.com/wiki/Biome#Biome_IDs.
+  // Identificador mod común son: graveyard_biomes, terralith, byg ...
+  // 2) Poner en la lista blanca una categoría de bioma: usa "#c:biomeTag" para poner en la lista blanca cualquier bioma de esta etiqueta (#c + ":" + nombre de la etiqueta).
+  // Una lista de todas las etiquetas válidas se puede encontrar aquí: https://github.com/FabricMC/fabric/tree/1.19.1/fabric-convention-tags-v1/src/generated/resources/data/c/tags/worldgen/biome.
+  // 3) Poner en la lista blanca una categoría de bioma: usa "#minecraft:biomeTag" para poner en la lista blanca cualquier bioma en esta etiqueta vainilla (#minecraft + ":" + nombre de la etiqueta).
+  // Una lista de todas las etiquetas válidas se puede encontrar aquí: https://minecraft.fandom.com/wiki/Tag#Biomes.
+  // Configurar la lista negra:
+  // Lista negra de un solo bioma: usa "modId:biome" para poner biomas en la lista negra (mod identifier + ":" + nombre del bioma).
+  // Una lista completa de todos los biomas vainilla se puede encontrar aquí https:minecraft.fandom.com/wiki/Biome#Biome_IDs.
   //
-  // Additional:
-  // Configure graveyard fog particles rising from moss and set the chance of spawning them (higher numbers = lower chance of spawning).
-  // Configure if hordes of graveyard mobs can spawn and set their size and frequency.
-  // Configure if urns have a double chest inventory.
-  // Configure if the wither skeleton spawner in the large graveyard will be replaced by a skeleton spawner.
+  // Adicional:
+  // Configurar las partículas de niebla del cementerio que se elevan desde el musgo y establecer la probabilidad de desove de ellos (números más altos = menor probabilidad de desove).
+  // Configura si las hordas del cementerio pueden aparecer y establece su tamaño y frecuencia.
+  // Configura si las urnas tienen un inventario de doble cofre.
+  // Configura si el generador de esqueletos marchitos en el cementerio grande será reemplazado por un generador de esqueletos.
   "structureConfigEntries": {
     "small_grave": {
       "enabled": true,
