@@ -9,10 +9,10 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Craft a &8&lDragon Plushie"
+			title: "Craftea un &8&lDragon Plushie"
 			x: -0.5d
 			y: -0.5d
-			subtitle: "One of the many mob plushies from the Plushies mod."
+			subtitle: "Uno de los muchos peluches de la mafia del mod Peluches".
 			id: "12D4044932EEF253"
 			tasks: [{
 				id: "1E4769170074A8BD"
@@ -26,10 +26,10 @@
 			}]
 		}
 		{
-			title: "Craft an &5Unobtanium Ingot"
+			title: "Craftea un &5Unobtanium Ingot"
 			x: -2.0d
 			y: -0.5d
-			subtitle: "Obtained by throwing a &8Netherite Ingot &rthrough a &4Nether &rPortal. Used to make an Unobtanium Block, one of the many decoration blocks from the Architect's Palette mod."
+			subtitle: "Se obtiene lanzando un lingote de &8Netherita a través de un &4Portal del &rNether. Se usa para fabricar un Bloque Unobtanium, uno de los muchos bloques decorativos del mod Architect's Palette".
 			id: "7CC366DDC723B30F"
 			tasks: [{
 				id: "5B104DD2F88EC5B8"
@@ -44,10 +44,10 @@
 			}]
 		}
 		{
-			title: "Craft &oDecorating Your Home"
+			title: "Craftea &oDecorating Your Home"
 			x: -3.5d
 			y: -0.5d
-			subtitle: "A detailed guidebook for the Adorn mod."
+			subtitle: "Una guía detallada para el mod Adorn".
 			id: "27CA0D18235360A1"
 			tasks: [{
 				id: "4E5C553A94290A8D"
@@ -61,10 +61,10 @@
 			}]
 		}
 		{
-			title: "Craft &7Iron Wind Chimes"
+			title: "Craftea un &7Iron Wind Chimes"
 			x: -3.5d
 			y: 1.0d
-			subtitle: "One of three craftable &7wind chimes&r."
+			subtitle: "Una de las tres campanas de viento crafteables".
 			id: "15B6C3CA61531CCD"
 			tasks: [{
 				id: "2B3B7372B9B40152"
@@ -78,15 +78,15 @@
 			}]
 		}
 		{
-			title: "Craft a &cDramatic Door"
+			title: "Craftea una &cDramatic Door"
 			x: -0.5d
 			y: 1.0d
-			subtitle: "3 block high door. Great for tall origins."
+			subtitle: "Puerta de 3 bloques de altura. Genial para orígenes altos".
 			id: "731AF96597BF5309"
 			tasks: [{
 				id: "7ABFAF9A70390461"
 				type: "item"
-				title: "Any #dramaticdoors:tall_doors"
+				title: "cualquier #dramaticdoors:tall_doors"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b

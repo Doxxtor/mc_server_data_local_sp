@@ -9,18 +9,18 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Enter &6The Bumblezone"
+			title: "Entra al &6The Bumblezone"
 			icon: "minecraft:bee_nest"
 			x: 0.0d
 			y: 0.0d
-			subtitle: "To enter &6The Bumblezone&r, simply throw an &5Ender Pearl&r into a &eBee Nest&r or a Bee Hive. To leave, dig to &lY = 0 &ror tower up to &lY = 256&r. Player-ridden animals can be brought into &6The Bumblezone&r by pushing yourself into a &eBee Hive &rwith a piston, while riding the mob."
-			description: ["If you have trypophobia, go into the Resourcepacks menu and enable the Anti-trypophobia resourcepack."]
+			subtitle: "Para entrar en &6The Bumblezone&r, simplemente lanza una &5Ender Pearl&r a un &eBee Nest&r o a una Bee Hive. Para salir, cava hasta &lY = 0 &ror torre hasta &lY = 256&r. Los animales montados por el jugador pueden ser introducidos en &6The Bumblezone&r empujándote a ti mismo dentro de un &eBee Hive&r con un pistón, mientras montas a la turba".
+			description: ["Si tienes tripofobia, entra en el menú de paquetes de recursos y activa el paquete de recursos Anti-tripofobia".]
 			size: 1.5d
 			id: "5669A0DAB45F2C62"
 			tasks: [{
 				id: "23EB799CA31143EC"
 				type: "dimension"
-				title: "Enter &6The Bumblezone"
+				title: "Entra &6The Bumblezone"
 				icon: "minecraft:bee_nest"
 				dimension: "the_bumblezone:the_bumblezone"
 			}]
@@ -42,10 +42,10 @@
 			]
 		}
 		{
-			title: "Find the &e&lBee Queen"
+			title: "Encuentra a la &e&lBee Queen"
 			x: 0.0d
 			y: -2.0d
-			subtitle: "Found in Throne Pillar structures. Trades for a variety of resources. Try giving her &eHoney Bottles&r, &4Spider Eyes&r, &fString&r, or &dDyes&r."
+			subtitle: "Se encuentra en las estructuras del Pilar del Trono. Se intercambia por diversos recursos. Prueba a darle &eBotellas de miel&r, &4Ojos de araña&r, &fCuerda&r o &dTintas&r".
 			dependencies: ["5669A0DAB45F2C62"]
 			id: "6A5111F402D746D5"
 			tasks: [{
@@ -71,22 +71,22 @@
 			]
 		}
 		{
-			title: "Obtain &6Pollen Puff"
+			title: "Obten &6Pollen Puff"
 			x: 1.0d
 			y: -1.5d
-			subtitle: "Obtained by mining a &fPile of Pollen&r. Read quest description for interactions."
+			subtitle: "Se obtiene al extraer un &fPile of Pollen&r. Lee la descripción de la misión para ver las interacciones".
 			description: [
-				"When thrown at flowers, the flowers will reproduce."
+				"Cuando se lanza a las flores, las flores se reproducen".
 				""
-				"When thrown at a block, it will create a Pile of Pollen."
+				"Cuando se lanza a un bloque, creará un Montón de Polen".
 				""
-				"Makes pandas sneeze."
+				"Hace estornudar a los pandas."
 				""
-				"Pollinates unpollinated bees."
+				"Poliniza abejas sin polinizar."
 				""
-				"Spawns mushrooms when thrown at a Mooshroom."
+				"Engendra setas cuando se lanza a un Mooshroom."
 				""
-				"Spawn pumpkin stems when thrown at a Snow Golem."
+				"Engendra tallos de calabaza cuando se lanza a un Gólem de Nieve."
 			]
 			dependencies: ["5669A0DAB45F2C62"]
 			id: "1085588F956F6781"
@@ -109,16 +109,16 @@
 			]
 		}
 		{
-			title: "Find a &dHanging Garden"
+			title: "Encuentra un &dHanging Garden"
 			x: 1.5d
 			y: -0.5d
-			subtitle: "A great place to find flowers of all kinds."
+			subtitle: "Un gran lugar para encontrar flores de todo tipo".
 			dependencies: ["5669A0DAB45F2C62"]
 			id: "619FF16C8CF1058C"
 			tasks: [{
 				id: "2E69A5082DE69808"
 				type: "structure"
-				title: "Locate the Hanging Garden"
+				title: "Localiza el Hanging Garden"
 				icon: "minecraft:flower_pot"
 				structure: "the_bumblezone:hanging_garden"
 			}]
@@ -136,7 +136,7 @@
 			]
 		}
 		{
-			title: "Find a &6Crystalline Flower"
+			title: "Localiza el &6Crystalline Flower"
 			x: -1.5d
 			y: -0.5d
 			subtitle: "Found in &6The Bumblezone&r on &6Glistering Honey&r and &dAmethyst&r. Opened by right clicking. By feeding it items or &aExperience Points&r, it will give you enchanted books."
@@ -145,7 +145,7 @@
 			tasks: [{
 				id: "553AEA9E43960A9D"
 				type: "observation"
-				title: "Observe a Crystalline Flower"
+				title: "Observa un Crystalline Flower"
 				icon: "the_bumblezone:crystalline_flower"
 				timer: 0L
 				observe_type: 0
@@ -158,10 +158,10 @@
 			}]
 		}
 		{
-			title: "Craft a &6Honey Crystal Shield"
+			title: "Craftea un &6Honey Crystal Shield"
 			x: -1.0d
 			y: -1.5d
-			subtitle: "Upgradeable by repairing it in an anvil, using &6Honey Crystal Shards&r. Has double the durability of a normal shield at max level. Slows attackers."
+			subtitle: "Se puede mejorar reparándolo en un yunque con 6 fragmentos de cristal de miel. Tiene el doble de durabilidad que un escudo normal a nivel máximo. Ralentiza a los atacantes".
 			dependencies: ["5669A0DAB45F2C62"]
 			id: "6164202DAC398029"
 			tasks: [{

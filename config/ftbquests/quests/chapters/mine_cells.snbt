@@ -15,10 +15,10 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Visit the &8Prison &rDimension"
+			title: "Visita la &8Prison &rDimension"
 			x: 0.5d
 			y: 0.5d
-			subtitle: "The portal to the &8Prison &rdimension spawns randomly throughout the &aOverworld&r. If you have, at any point, been in possession of a &bdiamond&r, the portal will already be activated."
+			subtitle: "El portal a la &8rdimensión de la Prisión&r aparece aleatoriamente por todo el &aOverworld&r. Si en algún momento has estado en posesión de un &bdiamante&r, el portal ya estará activado".
 			id: "79FA9140695A02C0"
 			tasks: [{
 				id: "1B45ED7E7358543E"
@@ -33,16 +33,16 @@
 			}]
 		}
 		{
-			title: "Defeat &dConjunctivius"
+			title: "Derrota &dConjunctivius"
 			x: 2.0d
 			y: 0.5d
-			subtitle: "Spawns in &1The Lair&r, which can be found underground in the &8Prison &rdimension. To deal damage to the &dConjunctivius&r, you must first kill the tentacles. Can drop the &4&lCursed Sword&r, which gives you the &4Cursed &reffect when held. Don't use this sword in Hardcore ;)"
+			subtitle: "Aparece en &1The Lair&r, que se encuentra bajo tierra en la &8Prison &rdimension. Para infligir daño al &dConjunctivius&r, primero debes matar a los tentáculos. Puede soltar la &4&lEspada maldita&r, que te da el &4Efecto maldito&r cuando la sujetas. No uses esta espada en Hardcore."
 			dependencies: ["79FA9140695A02C0"]
 			id: "678B2562584E24EF"
 			tasks: [{
 				id: "34A86CD084A8B298"
 				type: "kill"
-				title: "Defeat Conjunctivius"
+				title: "Derrota Conjunctivius"
 				icon: {
 					id: "minecells:tentacle"
 					Count: 1b
@@ -60,10 +60,10 @@
 			}]
 		}
 		{
-			title: "Craft 2 &7Elevator Assemblers"
+			title: "Craftea 2 &7Elevator Assemblers"
 			x: 0.5d
 			y: 2.0d
-			subtitle: "To create an &8Elevator&r, first clear out a 3x3 area of any height. Then, place chains on either side of the shaft. Place the &8Elevator Assemblers &ron at the heights you want the &8Elevator &rto go to. The &8Elevator &rcan be activated via &4redstone &ror by right clicking. Make sure the chain goes above the top &8Elevator &rand chains surround both sides."
+			subtitle: "Para crear un &8Elevador&r, despeja primero un área de 3x3 de cualquier altura. A continuación, coloca cadenas a ambos lados del eje. Coloca los &8Elevator Assemblers&ron a las alturas a las que quieras que llegue el &8Elevator&r. El &8Elevador &r puede activarse mediante &4redstone &rror haciendo clic con el botón derecho. Asegúrate de que la cadena va por encima del &8Elevador &r superior y las cadenas rodean ambos lados".
 			dependencies: ["79FA9140695A02C0"]
 			id: "4EE0E9381F12E9E1"
 			tasks: [{

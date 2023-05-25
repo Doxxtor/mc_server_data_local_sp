@@ -15,7 +15,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Craft a &6Copper Cauldron"
+			title: "Craftea un &6Copper Cauldron"
 			x: -1.5d
 			y: -1.0d
 			subtitle: "Can be used to hold &bPurified Water"
@@ -39,10 +39,10 @@
 			]
 		}
 		{
-			title: "Craft a &6Campfire Cauldron"
+			title: "Craftea un &6Campfire Cauldron"
 			x: -1.5d
 			y: 0.5d
-			subtitle: "Can be hung over a campfire to boil impure buckets of water. &bPurified Water &ris extracted with glass bottles."
+			subtitle: "Puede colgarse sobre una hoguera para hervir cubos de agua impura. &bAgua purificada &ris extraída con botellas de vidrio".
 			dependencies: ["6FFF5D865C4FA1EC"]
 			id: "2D3B4D3B83178C68"
 			tasks: [{
@@ -64,10 +64,10 @@
 			]
 		}
 		{
-			title: "Craft a &2Bamboo Pump"
+			title: "Craftea un &2Bamboo Pump"
 			x: 0.0d
 			y: 0.5d
-			subtitle: " Place an empty bucket on a &2Bamboo Pump&r, then right-click the Pump a few times until it stops pumping. Shift left click the Pump with an empty hand to take off the Bucket of &bPurified Water&r."
+			subtitle: "Coloca un cubo vacío sobre una &2Bomba de Bambú&r, luego haz clic con el botón derecho del ratón sobre la Bomba unas cuantas veces hasta que deje de bombear. Haz clic con el botón izquierdo del ratón en la Bomba con la mano vacía para quitar el Cubo de &bAgua Purificada&r".
 			dependencies: ["2D3B4D3B83178C68"]
 			id: "3D7D3E6E77B52951"
 			tasks: [{
