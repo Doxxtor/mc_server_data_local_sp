@@ -15,10 +15,10 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Create a &cRune Crafting Altar"
+			title: "Crear un Altar de Artesanía &cRune"
 			x: -1.5d
 			y: 0.0d
-			subtitle: "Using the &cRune Crafting Altar&r gives more &cRunes&r than a Crafting Table does."
+			subtitle: "Usar el &cRune Crafting Altar&r da más &cRunes&r que una Crafting Table".
 			size: 1.2d
 			id: "3C03A3084AD4503A"
 			tasks: [{
@@ -35,16 +35,16 @@
 			}]
 		}
 		{
-			title: "Craft a &cRune"
+			title: "Craftea una &cRune"
 			x: 0.0d
 			y: 0.0d
-			subtitle: "Used as ammo for &aWands&r."
+			subtitle: "ASe usa como municion para las &aWands&r."
 			dependencies: ["3C03A3084AD4503A"]
 			id: "52F3A430CA1161F4"
 			tasks: [{
 				id: "546892239C517A0A"
 				type: "item"
-				title: "Any #wizards:wizard_runes"
+				title: "cualquier #wizards:wizard_runes"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -60,10 +60,10 @@
 			}]
 		}
 		{
-			title: "Craft a &aNovice Wand"
+			title: "Craftea unaa &aNovice Wand"
 			x: 0.0d
 			y: -1.5d
-			subtitle: "Used to cast spells."
+			subtitle: "Se utiliza para lanzar hechizos."
 			dependencies: ["52F3A430CA1161F4"]
 			id: "5DD91A2BE7C75259"
 			tasks: [{
@@ -125,10 +125,10 @@
 			]
 		}
 		{
-			title: "Create a &6Spell Binding Table"
+			title: "Crea una &6Spell Binding Table"
 			x: 0.0d
 			y: -3.0d
-			subtitle: "Used to bind spells to a &aWand&r. Adding bookshelves gives better spells. &aWands&r can be given enchants with a regular &5Enchantment Table&r."
+			subtitle: "Se usa para atar hechizos a una &aWand&r. Añadir estanterías da mejores hechizos. Añadiendo librerías se obtienen mejores hechizos. &aWands&r pueden recibir encantamientos con una &5Enchantment Table&r normal".
 			dependencies: ["5DD91A2BE7C75259"]
 			id: "1F63CB475EC9E7D3"
 			tasks: [{
@@ -151,15 +151,15 @@
 			]
 		}
 		{
-			title: "Find a &3Wizard Merchant"
+			title: "Localiza a un &3Wizard Merchant"
 			x: 1.5d
 			y: 0.0d
-			subtitle: "Sells powerful wizard equipment."
+			subtitle: "Vende poderosas armaduras para magos".
 			id: "6B0A9F014D9985F3"
 			tasks: [{
 				id: "6B4491EA0D2428F6"
 				type: "structure"
-				title: "Find a Wizard Merchant"
+				title: "Localiza a un Wizard Merchant"
 				icon: {
 					id: "ftbquests:custom_icon"
 					Count: 1b
@@ -177,10 +177,10 @@
 			}]
 		}
 		{
-			title: "Craft all three of the most powerful &aWands"
+			title: "Craftea las 3 &aWands mas poderosas"
 			x: -1.5d
 			y: -3.0d
-			subtitle: "Different &aWand &rtypes have different spells."
+			subtitle: "Diferentes tipos de &aWands &r tienen diferentes hechizos".
 			dependencies: ["1F63CB475EC9E7D3"]
 			id: "3632E8A6A992F1C5"
 			tasks: [
@@ -234,10 +234,10 @@
 			]
 		}
 		{
-			title: "Craft all three &bSpellblades"
+			title: ""Craftea las tres &bSpellblades"
 			x: 1.5d
 			y: -3.0d
-			subtitle: "Its like a &aWand&r, but instead of a &aWand&r, its a &bBlade!"
+			subtitle: "Es como una &aWand&r, pero en vez de una &aWand&r, ¡es una &bEspada!".
 			dependencies: ["1F63CB475EC9E7D3"]
 			id: "54885F1A5D622F0E"
 			tasks: [
@@ -291,10 +291,10 @@
 			]
 		}
 		{
-			title: "Craft all three &bSpellblade Ingots"
+			title: "Fabrica los tres lingotes &bSpellblade"
 			x: 1.5d
 			y: -1.5d
-			subtitle: "Used to create Spellblade armor that increases the power of &bSpellblades&r."
+			subtitle: "Se usa para crear armaduras de Spellblade que aumentan el poder de &bSpellblades&r".
 			id: "0C0AC243A78F1D49"
 			tasks: [
 				{
@@ -332,10 +332,10 @@
 			]
 		}
 		{
-			title: "Craft the hat for all three &3Wizard&r gearsets"
+			title: "Craftea el sombrero de los 3 &3Wizard&r engranajes"
 			x: -1.5d
 			y: -1.5d
-			subtitle: "Wearing a full set of &4Fire&r / &bFrost&r / &5Arcane&r Wizard gear will make spells of that element much more powerful."
+			subtitle: "Llevar un conjunto completo de &4Fire&r / &bFrost&r / &5Arcane&r Wizard gear hará que los hechizos de ese elemento sean mucho más poderosos".
 			id: "65C4BF29F49AB821"
 			tasks: [
 				{

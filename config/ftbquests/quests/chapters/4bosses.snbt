@@ -173,15 +173,15 @@
 			}]
 		}
 		{
-			title: "Kill a &dAmethyst Golem"
+			title: "Mata al &dAmethyst Golem"
 			x: -2.0d
 			y: 1.5d
-			subtitle: "Found underground in &damethyst geodes&r."
+			subtitle: "Encontrado bajo tierra en geodas de &damethyst geodes&r."
 			id: "2D3BD496319AD33C"
 			tasks: [{
 				id: "64CB4ECC614E2DC9"
 				type: "kill"
-				title: "Kill a Amethyst Golem"
+				title: "Mata al Amethyst Golem"
 				icon: "minecraft:amethyst_cluster"
 				entity: "adventurez:amethyst_golem"
 				value: 1L
@@ -193,15 +193,15 @@
 			}]
 		}
 		{
-			title: "Summon and Kill &6Ayla"
+			title: "Invoca y Mata al &6Ayla"
 			x: -3.5d
 			y: 1.5d
-			subtitle: "The &3Grimoire &rhas more information on the Archon mod. This can be obtained from the Tutorial quests or by crafting it."
+			subtitle: "El &3Grimoire &rhas más información sobre el mod Archon. Se puede obtener en las misiones del Tutorial o fabricándolo".
 			id: "74AFEC7266C2EB4B"
 			tasks: [{
 				id: "3D59CFDFAC4FE062"
 				type: "kill"
-				title: "Summon and Kill Ayla"
+				title: "Invoca y Mata al Ayla"
 				icon: "archon:angelic_star"
 				entity: "archon:ayla"
 				value: 1L
@@ -226,15 +226,15 @@
 			]
 		}
 		{
-			title: "Summon and Kill &2Tar"
+			title: "Invoca y Mata al &2Tar"
 			x: -3.5d
 			y: 3.0d
-			subtitle: "The &3Grimoire &rhas more information on the Archon mod. This can be obtained from the Tutorial quests or by crafting it."
+			subtitle: "El &3Grimoire &rhas más información sobre el mod Archon. Se puede obtener en las misiones del Tutorial o fabricándolo".
 			id: "07E3267E019380D9"
 			tasks: [{
 				id: "018AD2867C49F837"
 				type: "kill"
-				title: "Summon and Kill Tar"
+				title: "Invoca y Mata al Tar"
 				icon: "archon:terranite_stone"
 				entity: "archon:tar"
 				value: 1L
@@ -259,10 +259,10 @@
 			]
 		}
 		{
-			title: "Defeat &4The Lich"
+			title: "Derrota al &4The Lich"
 			x: -1.9500000000000002d
 			y: -3.2500000000000004d
-			subtitle: "Can be spawned in the &4Lich Prison &rstructure, a large floating island above oceans. Once it is night time, place the fragments on the Corrupted Deepslate Center blocks. Then, pour the &4blood &ronto the altar in the middle."
+			subtitle: "Puede ser engendrado en el &4Lich Prison &rstructure, una gran isla flotante por encima de los océanos. Cuando sea de noche, coloca los fragmentos en los bloques del centro de Deepslate corrompido. Luego, vierte el &4blood &ron al altar del centro".
 			dependencies: [
 				"4EF485B4BE7BC4BF"
 				"5A1817A81A4FD5C1"
@@ -272,7 +272,7 @@
 			tasks: [{
 				id: "2424B45972B567F2"
 				type: "kill"
-				title: "Defeat the Lich"
+				title: "Derrota al Lich"
 				icon: "graveyard:altar"
 				entity: "graveyard:lich"
 				value: 1L
@@ -292,15 +292,15 @@
 			]
 		}
 		{
-			title: "Defeat the &bNight Lich"
+			title: "Derrota al &bNight Lich"
 			x: -2.0d
 			y: 3.0d
-			subtitle: "Found in towers that spawn in &bcold &rbiomes."
+			subtitle: "Encontrado en torres que desovan en &bcold &rbiomes."
 			id: "63D82D9074FC34E3"
 			tasks: [{
 				id: "727F7A1D307E65A9"
 				type: "kill"
-				title: "Defeat the Night Lich"
+				title: "Derrota al Night Lich"
 				icon: "bosses_of_mass_destruction:ancient_anima"
 				entity: "bosses_of_mass_destruction:lich"
 				value: 1L
@@ -324,10 +324,10 @@
 			]
 		}
 		{
-			title: "Collect all three &fBone Staff Fragments"
+			title: "Recoge los tres fragmentos de báculo de &fBone"
 			x: -3.5d
 			y: -3.5d
-			subtitle: "Can be found in Ruins. Each Ruin will only have one &fFragment&r."
+			subtitle: "Se puede encontrar en Ruinas. Cada Ruina solo tendrá un &fFragmento&r".
 			id: "4EF485B4BE7BC4BF"
 			tasks: [
 				{
@@ -366,10 +366,10 @@
 			]
 		}
 		{
-			title: "Fill a &4Vial of Blood"
+			title: "Rellena un &4Vial of Blood"
 			x: -3.5d
 			y: -2.5d
-			subtitle: "Obtained by killing 8 villagers with a &fBone Dagger &rand a glass bottle in your offhand. "
+			subtitle: "Se obtiene matando a 8 aldeanos con una &fDaga de hueso &y una botella de cristal en tu mano libre".
 			id: "5A1817A81A4FD5C1"
 			tasks: [{
 				id: "25880E2628FA206B"
@@ -389,15 +389,15 @@
 			}]
 		}
 		{
-			title: "Defeat the &5Void Blossom"
+			title: "Derrota al &5Void Blossom"
 			x: -3.5d
 			y: 4.5d
-			subtitle: "Found in rare caves at the bottom of the &aOverworld&r. &dVoid Lillies&r will point towards the &5Void Blossom&r."
+			subtitle: "Se encuentran en cuevas poco comunes en el fondo del &aOverworld&r. Los &dVoid Lillies&r apuntarán hacia el &5Void Blossom&r".
 			id: "24969D5FC76CDBB3"
 			tasks: [{
 				id: "3DB51E789F4F929F"
 				type: "kill"
-				title: "Defeat the Void Blossom"
+				title: "Derrota a la Void Blossom"
 				icon: "bosses_of_mass_destruction:void_thorn"
 				entity: "bosses_of_mass_destruction:void_blossom"
 				value: 1L
@@ -427,7 +427,7 @@
 			]
 		}
 		{
-			title: "Observe the &6Wise Oak"
+			title: "Observa al &6Wise Oak"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1b
@@ -437,7 +437,7 @@
 			}
 			x: -0.5d
 			y: 3.0d
-			subtitle: "Has over &l300 &rlines of dialogue. Gain his trust by talking to him enough. If you make him &cangry&r, you will face &4consequences&r. "
+			subtitle: "Tiene más de 300 líneas de diálogo. Gánate su confianza hablándole lo suficiente. Si le haces &enfadar&r, te enfrentarás a &4consecuencias&r."
 			id: "009062C8DCDF2FCC"
 			tasks: [{
 				id: "68E72F99E8828F14"
@@ -460,10 +460,10 @@
 			}]
 		}
 		{
-			title: "Observe a &bSoulmass"
+			title: "Observa una &bSoulmass"
 			x: 2.0d
 			y: -3.0d
-			subtitle: "Summoned by the &5Soul Reaper &rwith at least 30 soul charges"
+			subtitle: "Invocado por el &5Soul Reaper &r con al menos 30 cargas de alma"
 			dependencies: ["428FABFBFA313439"]
 			id: "5F25DD96B716376D"
 			tasks: [{
@@ -481,10 +481,10 @@
 			}]
 		}
 		{
-			title: "Craft a &5Soul Reaper"
+			title: "Craftea una &5Soul Reaper"
 			x: 3.5d
 			y: -3.0d
-			subtitle: "Grants souls as you kill mobs."
+			subtitle: "Concede almas mientras matas mobs".
 			dependencies: [
 				"7F41A7E307CD03B6"
 				"58E734F14C7BBF49"
@@ -508,15 +508,15 @@
 			}]
 		}
 		{
-			title: "Obtain your first &6Lord Soul"
+			title: "Obtén tu primera &6Lord Soul"
 			x: 3.5d
 			y: -4.5d
-			subtitle: "There are several types of &6Lord Souls&r. They are all dropped by boss mobs, including &8The Wither &rand &8&lEnder Dragon&r."
+			subtitle: "Hay varios tipos de &6Lord Souls&r. Todas las sueltan los jefes, como &8The Wither &rand &8&lEnder Dragon&r".
 			id: "7F41A7E307CD03B6"
 			tasks: [{
 				id: "5F39846DCFDFB0F8"
 				type: "item"
-				title: "Any #soulsweapons:lord_soul"
+				title: "cualquier #soulsweapons:lord_soul"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -533,10 +533,10 @@
 			}]
 		}
 		{
-			title: "Craft a &bLost Soul"
+			title: "Craftea un &bLost Soul"
 			x: 6.5d
 			y: -3.0d
-			subtitle: "Obtained by smelting Soul Sand"
+			subtitle: "Obtenido fundiendo Soul Sand"
 			id: "3570276AEF733567"
 			tasks: [{
 				id: "6AC0EA4DC27BE653"
@@ -550,10 +550,10 @@
 			}]
 		}
 		{
-			title: "Craft a &3Soul Infused Ingot"
+			title: "Craftea un &3Soul Infused Ingot"
 			x: 5.0d
 			y: -3.0d
-			subtitle: "Crafted using a Smithing Table"
+			subtitle: "Fabricado con una Smithing Table"
 			dependencies: ["3570276AEF733567"]
 			id: "58E734F14C7BBF49"
 			tasks: [{
@@ -568,10 +568,10 @@
 			}]
 		}
 		{
-			title: "Craft a &bMoonstone Compass"
+			title: "Craftea una &bMoonstone Compass"
 			x: 2.0d
 			y: -4.5d
-			subtitle: "Locates structures such as &8The Champion's Graves &rand &4The Decaying Kingdom&r. &bMoonstone &rcan be found at diamond level. "
+			subtitle: "Localiza estructuras como &8The Champion's Graves &rand &4The Decaying Kingdom&r. &bMoonstone &rpuede encontrarse en el nivel de diamante".
 			id: "2AE60180BCEE664D"
 			tasks: [{
 				id: "0251A3CBD00A7618"
@@ -591,16 +591,16 @@
 			}]
 		}
 		{
-			title: "Defeat the &6Old Champion's Remains"
+			title: "Derrota a los &6Restos del Viejo Campeón"
 			x: 5.0d
 			y: -4.5d
-			subtitle: "Found in the &8Old Champion's Graves&r, which can be located using the &bMoonstone Compass&r.\\"
+			subtitle: "Se encuentra en las &8Tumbas del Antiguo Campeón&r, que pueden localizarse usando la &bBrújula de Piedra Lunar&r.\\"
 			dependency_requirement: "one_completed"
 			id: "2FBEA509EEA51D61"
 			tasks: [{
 				id: "536B6F053CE47F37"
 				type: "kill"
-				title: "Kill the Old Champions Remains"
+				title: "Matar a los restos de los viejos campeones"
 				icon: {
 					id: "soulsweapons:draugr"
 					Count: 1b
@@ -622,14 +622,14 @@
 			title: "Defeat &eThe Returning Knight"
 			x: 6.5d
 			y: -6.0d
-			subtitle: "Summoned by clicking an &dOld Moon Altar&r with a &bLost Soul."
+			subtitle: "Invocado al pulsar un &dAltar de la Luna Vieja&r con un &bAlma Perdida".
 			dependencies: ["3570276AEF733567"]
 			dependency_requirement: "one_completed"
 			id: "3596033B80137A70"
 			tasks: [{
 				id: "2869157ED8640191"
 				type: "kill"
-				title: "Kill the Returning Knight"
+				title: "Mata al Returning Knight"
 				icon: {
 					id: "soulsweapons:nightfall"
 					Count: 1b
@@ -647,10 +647,10 @@
 			}]
 		}
 		{
-			title: "Craft an &dOld Moon Altar"
+			title: "Craftea un &dOld Moon Altar"
 			x: 6.5d
 			y: -4.5d
-			subtitle: "Used to summon bosses."
+			subtitle: "Se usa para invocar Bosses".
 			id: "1DACA1DF3AD232B4"
 			tasks: [{
 				id: "5A7C450361A98508"
@@ -664,7 +664,7 @@
 			}]
 		}
 		{
-			title: "Defeat the &6Elder Copper Golem "
+			title: "Derrota al &6Elder Copper Golem"
 			x: -0.5d
 			y: 1.5d
 			subtitle: "Found inside of structures in &2Swamps&r. "
@@ -682,10 +682,10 @@
 			}]
 		}
 		{
-			title: "Craft the &7Pure Moonlight Greatsword"
+			title: "Craftea la &7Pure Moonlight Greatsword"
 			x: 2.0d
 			y: -6.0d
-			subtitle: "A powerful greatsword with a special ability."
+			subtitle: "Una poderosa gran espada con una habilidad especial".
 			id: "70EFFB697B8B8995"
 			tasks: [{
 				id: "59CA741F6852CBD3"
@@ -707,13 +707,13 @@
 		{
 			x: 5.0d
 			y: -6.0d
-			subtitle: "Summoned by clicking an &dOld Moon Altar&r with a &3Essence of Eventide."
+			subtitle: "Invocada al pulsar un &dAltar de la Luna Vieja&r con una &3Esencia de Vísperas".
 			dependencies: ["1DACA1DF3AD232B4"]
 			id: "1E7B04FE503F5CE5"
 			tasks: [{
 				id: "009F7DC16FB1E465"
 				type: "advancement"
-				title: "Defeat the &4Fallen Icon"
+				title: "Derrota al &4Fallen Icon"
 				advancement: "soulsweapons:moonknight"
 				criterion: ""
 			}]
@@ -740,10 +740,10 @@
 			]
 		}
 		{
-			title: "Kill a &bSummoner"
+			title: "Derrota al &bSummoner"
 			x: -3.5d
 			y: 0.0d
-			subtitle: "Found during &9thunderstorms&r."
+			subtitle: "Localicable durante &9Tormentas&r."
 			id: "6B2017E49D279C20"
 			tasks: [{
 				id: "6DC174BE40170E18"
@@ -759,10 +759,10 @@
 			}]
 		}
 		{
-			title: "Defeat &9The Hirschgeist"
+			title: "Derrota al &9The Hirschgeist"
 			x: -2.0d
 			y: 4.5d
-			subtitle: "Rarely spawns in Forests at night. Can also be summoned using the &3Hand of Fate&r."
+			subtitle: "Rara vez aparece en los bosques por la noche. También se puede invocar con la &3Hand of Fate&r."
 			id: "2DC00CA5EE329F42"
 			tasks: [{
 				id: "6C4463459AF4E61C"
@@ -785,15 +785,15 @@
 			}]
 		}
 		{
-			title: "Defeat &k&4I&r&8&lThe Wither&k&4I"
+			title: "Derrota al &k&4I&r&8&lThe Wither&k&4I"
 			x: 3.5d
 			y: -1.0d
-			subtitle: "Summoned using Soul Stone from the Bygone Nether mod, instead of Soul Sand."
+			subtitle: "Invocada usando Piedra Alma del mod Bygone Nether, en lugar de Arena Alma".
 			id: "27B5B21EE85932A5"
 			tasks: [{
 				id: "7FF2BF8BEEA4986F"
 				type: "kill"
-				title: "Defeat &k&4I&r&8&lThe Wither&k&4I"
+				title: "Derrota &k&4I&r&8&lThe Wither&k&4I"
 				icon: "minecraft:wither_skeleton_skull"
 				entity: "minecraft:wither"
 				value: 1L
@@ -807,10 +807,10 @@
 			}]
 		}
 		{
-			title: "Craft a &bPrismatic Effigy"
+			title: "Craftea una &bPrismatic Effigy"
 			x: -0.5d
 			y: 4.5d
-			subtitle: "Used to summon the &5Magus&r boss. Simply click the item on the ground, and &5Magus&r will spawn nearby. Only one person can spawn &5Magus&r at a time."
+			subtitle: "Sirve para invocar al jefe &5Magus&r. Simplemente pulsa el objeto en el suelo y &5Magus&r aparecerá cerca. Solo una persona puede invocar a &5Magus&r a la vez".
 			id: "12C19988D138E779"
 			tasks: [{
 				id: "5BADA19757177D57"
