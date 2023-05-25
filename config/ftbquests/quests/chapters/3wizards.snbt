@@ -38,7 +38,7 @@
 			title: "Craftea una &cRune"
 			x: 0.0d
 			y: 0.0d
-			subtitle: "ASe usa como municion para las &aWands&r."
+			subtitle: "Se usa como municion para las &aWands&r."
 			dependencies: ["3C03A3084AD4503A"]
 			id: "52F3A430CA1161F4"
 			tasks: [{

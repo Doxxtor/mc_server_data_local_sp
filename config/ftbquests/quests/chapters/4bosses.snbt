@@ -15,7 +15,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Kill a &6Mammoth"
+			title: "Mata a &6Mammoth"
 			x: -2.0d
 			y: 0.0d
 			subtitle: "Found in &bcold &rbiomes."
@@ -35,7 +35,7 @@
 			}]
 		}
 		{
-			title: "Kill a &eDesert Rhino"
+			title: "Mata a &eDesert Rhino"
 			x: -0.5d
 			y: 0.0d
 			subtitle: "Found in &edeserts&r."
@@ -43,7 +43,7 @@
 			tasks: [{
 				id: "1841F40D9B6D5AD6"
 				type: "kill"
-				title: "Kill a Desert Rhino"
+				title: "Mata a Desert Rhino"
 				icon: "adventurez:rhino_leather"
 				entity: "adventurez:desert_rhino"
 				value: 1L
@@ -55,7 +55,7 @@
 			}]
 		}
 		{
-			title: "Craft the &8&lBook of Shadows"
+			title: "Craftea el &8&lBook of Shadows"
 			x: 3.5d
 			y: 1.5d
 			subtitle: "&3Mandrake Seeds&r, which drops from destroying grass, grows into &3Mandrake Roots &rwhen planted."
